@@ -36,13 +36,13 @@ public class TaskB1 {
         int x = sc.nextInt();
         if ((x % 4 == 0) && x % 100 != 0) {
 
-            System.out.println("366");
+            System.out.println("количество дней в году: 366");
         }
             else if ((x % 4 == 0) && (x % 100 == 0) && (x % 400 == 0)) {
-            System.out.println("366");
+            System.out.println("количество дней в году: 366");
         }
         else {
-            System.out.println("365");
+            System.out.println("количество дней в году: 365");
         }
     }
 }
