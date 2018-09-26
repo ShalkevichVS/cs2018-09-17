@@ -1,5 +1,7 @@
 package by.it.shalkevich.lesson04;
 
+import java.util.Scanner;
+
 /*
 Напишите программу которая спрашивает у пользователя:
 Какую вы хотите зарплату в $$$?
@@ -37,6 +39,11 @@ package by.it.shalkevich.lesson04;
 
 */
 public class TaskC1 {
+    public static void main(String[] args) {
+//        System.out.println("");
+//        Scanner sc = new Scanner(System.in);
+//        int zzz=sc.nextInt()
+    }
 
 
 }
