@@ -41,9 +41,6 @@ public class TaskB1 {
             else if ((x % 4 == 0) && (x % 100 == 0) && (x % 400 == 0)) {
             System.out.println("366");
         }
-
-
-
         else {
             System.out.println("365");
         }

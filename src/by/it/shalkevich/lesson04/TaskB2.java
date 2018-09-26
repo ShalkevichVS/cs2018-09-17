@@ -1,5 +1,7 @@
 package by.it.shalkevich.lesson04;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
 import java.util.Scanner;
 
 /*
@@ -30,7 +32,11 @@ public class TaskB2 {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
         int i = 1 ;
-//        while ()
+        while (i <= size)
+        {
+            System.out.println(i*size);
+            i++;
+        }
     }
 
 }
