@@ -22,7 +22,13 @@ Lesson 03. Task A2. Стихотворение
 */
 class TaskA2 {
     public static void main(String[] args) {
-        System.out.println("Хочешь, пущу в ладошку...\n");
+        String a="Высунуть листик иль синий цветочек";
+        String b="Каждый спешит молодой корешок";
+        String c="Раньше, чем ива из ласковых почек";
+        String d="Первый покажет зеленый листок.";
+        System.out.println("Мое любимое стихотворение:");
+        System.out.println(a+"\n"+b+"\n"+c+"\n"+d);
+
     }
 
 }
