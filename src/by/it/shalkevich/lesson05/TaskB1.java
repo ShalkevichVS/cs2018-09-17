@@ -11,5 +11,8 @@ package by.it.shalkevich.lesson05;
 
 
 public class TaskB1 {
+    public static void main(String[] args) {
+
+    }
 
 }

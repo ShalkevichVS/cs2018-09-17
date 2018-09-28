@@ -25,4 +25,32 @@ package by.it.shalkevich.lesson04;
 
 public class TaskC3 {
 
-}
+//    static String build(int +) {
+//        if (i<20);
+//        switch (i) {
+//            case 0: return "ноль";
+//            case 1: return "один";
+//            case 2: return "два";
+//            case 3: return "три";
+//            case 4: return "четыре";
+//            case 5: return "пять";
+//            case 6: return "шесть";
+//            case 7: return "семь";
+//            case 8: return "восемь";
+//            case 9: return "девять";
+//            case 10: return "десять";
+//            case 11: return "ноль";
+//            case 12: return "ноль";
+//            case 13: return "ноль";
+//            case 14: return "ноль";
+//            case 15: return "ноль";
+//            case 16: return "ноль";
+//            case 17: return "ноль";
+//            case 18: return "ноль";
+
+        }
+//    }
+
+
+
+//}
